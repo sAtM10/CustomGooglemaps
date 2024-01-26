@@ -1,0 +1,21 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: rgb(238, 236, 233);
+}
+h3{
+    align-items: center;
+    text-align: center;
+}
+h3{
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+#map{
+    height: 500px;
+    width: 100%;
+}
